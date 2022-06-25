@@ -1,7 +1,7 @@
-### Hi, My name is Gustavo 👋
+### Hi, My name is Gustavo :smiley:
 
-- 🔭 I’m currently working on Back-end
-- 🌱 I’m currently learning Python
+- :computer: I’m currently working on Back-end
+- 	:books: I’m currently learning Python
 
 <div align="center">
   <a href="https://github.com/Gustavomichel">
@@ -12,7 +12,6 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gustavo-c++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Gustavo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gustavo-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 </div>
   
