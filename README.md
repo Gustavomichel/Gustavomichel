@@ -1,6 +1,5 @@
 ### Hi, My name is Gustavo :smiley:
 
-- :computer: I’m currently working on Back-end
 - 	:books: I’m currently learning Python
 
 
