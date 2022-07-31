@@ -9,6 +9,8 @@
 <p align="left">
 <a href="https://twitter.com/gustavomichel__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gustavomichel__" height="30" width="40" /></a>
 <a href="https://discord.gg/GustavoMichel#8424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GustavoMichel#8424" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19656481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19656481" height="30" width="40" /></a>
+<a href="https://kaggle.com/gustavomichel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gustavomichel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Current Learning:</h3>
